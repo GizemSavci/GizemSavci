@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GizemSavci
-- 👀 I’m interested in coding, creating interactive UI
-- 🌱 I’m currently learning JavaScript, React, Python.
+- 👀 I’m interested in coding and creating interactive UI
+- 🌱 I’m currently learning React, Python.
 - 💞️ I'm eager to collaborate on frontend development or app development projects.
 - 📫 How to reach me: savci.gizem02@gmail.com
 
