@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @GizemSavci
-- 👀 I’m interested in coding and creating interactive UI
-- 🌱 I’m currently learning React, Python.
-- 💞️ I'm eager to collaborate on frontend development or app development projects.
+# Gizem Savci 🐱
+## A Developer With Design Foundation.
+
+I'm on a continous learning journey to dive into the world of software development.  
+Curently, learning Full Stack Development.👩‍💻🦸‍♀️  
+In my spare time, I spend my time with Python.🐍
 - 📫 How to reach me: savci.gizem02@gmail.com
 
 <!---
